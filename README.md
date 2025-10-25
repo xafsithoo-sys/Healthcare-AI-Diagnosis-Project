@@ -100,6 +100,35 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 plt.show()
 
 ---
+📈 Results and Insights
+Metric	Score
+Accuracy	~82%
+Precision (Diabetic)	0.78
+Recall (Diabetic)	0.80
+🔍 Key Findings
+
+Glucose and BMI are the most influential features in predicting diabetes.
+
+Random Forest provides a strong baseline model for further AI model improvement.
+
+Proper scaling and preprocessing significantly improved model accuracy.
+
+🧭 Reflection
+
+This task strengthened my understanding of:
+
+End-to-end data science workflows in healthcare applications
+
+The use of Scikit-learn for practical machine learning tasks
+
+How classical ML serves as a foundation for advanced AI models
+
+It also showed how collaboration between data preprocessing, deep learning, and NLP can create a complete AI-driven healthcare solution.
+
+🏁 Conclusion
+
+This notebook showcases my contribution as Member 1 (Data Scientist) in the project “Mastering the AI Toolkit.”
+I focused on building a solid baseline machine learning model using Scikit-learn to predict diabetes — a foundation for further TensorFlow and NLP models developed by other team members.
 
 ## 📈 Results and Insights  
 
@@ -135,35 +164,6 @@ It also showed how collaboration between **data preprocessing**, **deep learning
 This notebook showcases my contribution as **Member 1 (Data Scientist)** in the project *“Mastering the AI Toolkit.”*  
 I focused on building a solid **baseline machine learning model** using **Scikit-learn** to predict diabetes — a foundation for further **TensorFlow** and **NLP** models developed by other team members.
 
-📈 Results and Insights
-Metric	Score
-Accuracy	~82%
-Precision (Diabetic)	0.78
-Recall (Diabetic)	0.80
 
-Key Findings:
-
-Glucose and BMI are the most influential features in predicting diabetes.
-
-Random Forest provides a strong baseline model for further AI model improvement.
-
-Proper scaling and preprocessing significantly improved accuracy.
-
-🧭 Reflection
-
-This task strengthened my understanding of:
-
-End-to-end data science workflows in healthcare applications
-
-The use of Scikit-learn for practical machine learning tasks
-
-How classical ML serves as a foundation for advanced AI models
-
-It also showed how collaboration between data preprocessing, deep learning, and NLP can create a complete AI-driven healthcare solution.
-
-🏁 Conclusion
-
-This notebook showcases my contribution as Member 1 (Data Scientist) in the project “Mastering the AI Toolkit.”
-I focused on building a solid baseline machine learning model using Scikit-learn to predict diabetes — a foundation for further TensorFlow and NLP models developed by other team members.
 
 
