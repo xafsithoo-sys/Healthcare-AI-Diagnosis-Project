@@ -99,6 +99,8 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 plt.show()
 
+---
+
 ## 📈 Results and Insights  
 
 | **Metric** | **Score** |
@@ -106,6 +108,8 @@ plt.show()
 | Accuracy | ~82% |
 | Precision (Diabetic) | 0.78 |
 | Recall (Diabetic) | 0.80 |
+
+---
 
 ### 🔍 Key Findings  
 
